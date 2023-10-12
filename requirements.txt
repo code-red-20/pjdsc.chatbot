@@ -1,0 +1,6 @@
+openai
+llama-index
+pypdf
+gradio
+python-dotenv
+flask
